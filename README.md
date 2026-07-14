@@ -33,21 +33,6 @@ The project demonstrates how I integrated computer vision, robotics middleware, 
 * ROS2 Image Messages
 * ROS2 Publishers and Subscribers
 
----
-
-## Repository Structure
-
-```text
-.
-├── yolov3.cfg                 # YOLOv3 network configuration
-├── yolov3.weights             # Pre-trained YOLOv3 weights
-├── coco.names                 # COCO object class labels
-├── pedestrian_detection.py    # ROS2 perception node
-├── saved_images/              # Annotated detection images
-└── README.md
-```
-
----
 
 ## System Architecture
 
